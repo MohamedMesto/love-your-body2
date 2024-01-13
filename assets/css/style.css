@@ -258,13 +258,12 @@
  /* Footer */
  footer {
      background-color: black;
-     height: 40px;
-     width: 40px;
+
 
  }
 
  /* Social-networks-link icons*/
- #social-networks-links {
+ #social_networks_links {
 
      list-style-type: none;
      text-align: center;
@@ -275,17 +274,19 @@
 
  }
 
- #social-networks-links i {
+ #social_networks_links i {
      font-size: 160%;
      padding: 5%;
      color: #161fbd;
 
  }
 
- #social-networks-links-img {
-     /* Makes the square image into a circle */
-     border-radius: 40%
- }
+ ul li a img {
+    /* Makes the square image into a circle */
+    border-radius: 25%;
+    height: 40px;
+    width: 40px;
+}
 
  #fasting_benefits-image {
 
