@@ -76,12 +76,15 @@
  header a {
      text-decoration: none;
      color: inherit;
-     box-shadow: 2px 2px 2px 1px rgba(0, 0, 255, .8);
+     box-shadow: 2px 2px 2px 1px rgba(114, 114, 223, 0.8);
  }
 
  hr {
-     color: rgb(34, 113, 224);
-     size: 2px;
+   
+     height: 5px;
+    /* Set the hr color */
+ 
+  background-color:rgba(0, 0, 255, .4); /* Modern Browsers */
  }
 
  /* Navbar styles with dropdown toggle */
@@ -255,6 +258,8 @@
  /* Footer */
  footer {
      background-color: black;
+     height: 40px;
+     width: 40px;
 
  }
 
