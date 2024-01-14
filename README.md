@@ -93,7 +93,7 @@ Love Your Body (Fasting Treatment) consists of 6 page website with 5 pages that 
 
 The final colour scheme chosen was a dark teal with an off white text, as well as an off white and light grey to segment pages. Two lighter teal colours were used on the navigation bar to highlight the active page and for the hover effect. This colour scheme is very on trend with the clean and modern look but still has that hint of warmth by sticking to the warmer tones of teal, greys and whites.
 
-![Colour palette image of 6 colours](assets/images/readme-images/colour-palette.png)
+![Colour palette image of 5 colours](assets/images/colour_palette_lyb.png)
 
 ### Typography
 
