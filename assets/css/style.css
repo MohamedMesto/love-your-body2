@@ -214,6 +214,21 @@
 
  }
 
+ #balls_cover_books_page_bg
+
+ {
+
+    background: url("../images/books.png") no-repeat center center;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
+    /* Makes the square image into a circle */
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+
+}
+
 
  /* Fasting and Meetup Times section */
  #Fasting_times {
@@ -245,7 +260,8 @@
      background-color: rgba(0, 0, 255, .5);
  }
 
- /* fasting world page */
+ /* Fasting World Gallery page */
+
  #fasting_world_photos img {
      width: 100%;
      line-height: 1em;
@@ -282,11 +298,11 @@
  }
 
  ul li a img {
-    /* Makes the square image into a circle */
-    border-radius: 25%;
-    height: 40px;
-    width: 40px;
-}
+     /* Makes the square image into a circle */
+     border-radius: 25%;
+     height: 40px;
+     width: 40px;
+ }
 
  #fasting_benefits-image {
 
@@ -359,10 +375,15 @@
      }
 
 
-     /* fasting world photos */
+     /* Fasting World Gallery photos */
      #fasting_world_photos {
          column-count: 3;
      }
+
+
+     #fasting_world_gallery {
+        padding-top: 140px;
+    }
 
  }
 
@@ -389,7 +410,7 @@
          box-shadow: 2px 2px 2px 1px rgba(230, 230, 14, 0.8);
      }
 
-
+     /* Fasting World Gallery page */
      #fasting_world_photos {
          column-count: 4;
      }
