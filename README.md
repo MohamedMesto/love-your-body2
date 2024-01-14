@@ -15,7 +15,7 @@ You can view the live site here - <a href="https://mohamedmesto.github.io/love-y
   - [Target Audience](#target-audience)
   - [User Stories](#user-stories)
   - [Site Aims](#site-aims)
-  - [Design Wireframes](#design-wireframes)
+  - [Design the Episode](#design-the-episode)
   - [Site Structure](#site-structure)
   - [Design Choices](#design-choices)
     - [Colour Scheme](#colour-scheme)
@@ -47,7 +47,7 @@ You can view the live site here - <a href="https://mohamedmesto.github.io/love-y
 
 # Objective
 
- The aim of this project is to practice fasting and stay healthy and full power.
+ The aim of this project is to practice fasting and stay healthy and full power. Moreover, to improve a person's daily life by increasing the ability to concentrate and increasing the efficiency of the body's systems. However, the Engaging in fasting can evoke a sense of inner strength, making individuals feel powerful as they experience heightened mental clarity and a renewed sense of vitality.
 
 [Back to top](<#contents>)
 
@@ -55,40 +55,32 @@ You can view the live site here - <a href="https://mohamedmesto.github.io/love-y
 
 ## Target Audience
 
-- Users that are looking for a professional but inviting photography service to cover their event or celebration.
-- Users that are looking for a professional photographer to cover their business event
+- The website caters to individuals seeking a holistic approach to health, targeting those interested in practicing fasting to enhance mental clarity, boost vitality, and improve overall well-being. It appeals to a diverse audience keen on integrating fasting into their lifestyles for optimal health and increased daily performance.
 
 ## User Stories
 
 - A user should be able to determine the site's purpose immediately
 - A user should be able to easily and intuitively navigate the site
 - A user should be able to identify the content of each page easily
-- A user should feel comfortable contacting the business for more information or to book an event
+- A user should be able to easily learn more about fasting
+- A user should feel comfortable contacting the business for more information or to book an event or visit the clinic
 
 ## Site Aims
-
-- To provide the user with all the information needed to contact the business to book an event/photographer
-- To offer a clear method to contact the business
-- To sell the business to the user in a warm, friendly and inviting manner
-- To provide information on the photographer
-- To supply a visual portfolio of work done
+- To increase the user's awareness of how to live a healthy life with a lifestyle that does not require money, but rather requires will
+- Explain and share and fasting rules and benefits
+- To provide the user with all the information needed to contact the clinic to book an medical consultation appointment
+- To offer a clear method to contact the fasting compunity
+- To improve the sociaty quality in a warm, friendly and inviting manner
+- To showcase a visual compilation of completed fasting projects
 - To deliver a starting guide to the cost of services
+- Share this amazing cure with the whole planet to make the people as much as possible happy, strong and healthy
 
-## Design Wireframes
+## Design the Episode 
+Design the Episode ![Love your body- Therapeutic Fasting - Otto Buchinger](https://www.youtube.com/watch?v=b122ta41eqY&t=74s)  on the youtube chanel Tips From Europe
 
-The design and structure for this website was created in Adobe XD. The designs produced were low fidelity wireframes for desktop versions only. The final designs and structure differ from the wireframes due to developments during the construction of the website.
+The design and structure for this website was created in Video Editor.  
 
-<details><summary> Low Fidelity Wireframes </summary>
-
-![Home Page Low Fidelity Wireframne](assets/images/readme-images/home-page-low-fidelity.jpg)
-
-![Packages Page Low Fidelity Wireframe](assets/images/readme-images/services-low-fidelity.jpg)
-
-![Gallery Page Low Fidelity Wireframe](assets/images/readme-images/gallery-low-fidelity.jpg)
-
-![Contact Page Low Fidelity Wireframe](assets/images/readme-images/contact-low-fidelity.jpg)
-
-</details>
+[![Tips From Europe](https://github.com/MohamedMesto/MohamedMesto/blob/main/Images/heilfasten_profile.png)](https://www.youtube.com/watch?v=b122ta41eqY&t=67s)
 
 ## Site Structure
 
