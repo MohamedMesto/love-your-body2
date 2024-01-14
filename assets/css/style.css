@@ -80,11 +80,12 @@
  }
 
  hr {
-   
+
      height: 5px;
-    /* Set the hr color */
- 
-  background-color:rgba(0, 0, 255, .4); /* Modern Browsers */
+     /* Set the hr color */
+
+     background-color: rgba(0, 0, 255, .4);
+     /* Modern Browsers */
  }
 
  /* Navbar styles with dropdown toggle */
@@ -157,6 +158,22 @@
      background-color: rgba(0, 0, 255, .4);
  }
 
+
+ main {
+     /* Enlarge main element to push footer down*/
+     flex: 1 0 auto;
+     /* Add margin at the top to prevent content from being covered by the header */
+     margin-top: 47px;
+     /* Enable flex properties for child elements */
+     display: flex;
+     flex-direction: column;
+ }
+
+
+
+
+
+
  /* fasting_reasons section */
  #fasting_reasons {
      width: 91%;
@@ -214,20 +231,18 @@
 
  }
 
- #balls_cover_books_page_bg
+ #balls_cover_books_page_bg {
 
- {
+     background: url("../images/books.png") no-repeat center center;
+     height: 90vw;
+     width: 90vw;
+     margin-bottom: 20px;
+     /* Makes the square image into a circle */
+     border-radius: 50%;
+     max-width: 300px;
+     max-height: 300px;
 
-    background: url("../images/books.png") no-repeat center center;
-    height: 90vw;
-    width: 90vw;
-    margin-bottom: 20px;
-    /* Makes the square image into a circle */
-    border-radius: 50%;
-    max-width: 300px;
-    max-height: 300px;
-
-}
+ }
 
 
  /* Fasting and Meetup Times section */
@@ -311,6 +326,54 @@
      justify-content: center;
  }
 
+
+ #join_us {
+     background-image: url("../images/7balls_2.png");
+     background-size:cover;
+     background-position: 100%;
+     padding: 20px 10% 0 10%;
+     flex-grow: 1;
+     justify-content:space-evenly;
+
+ }
+
+ #join_us_form {
+     color: #ffffff;
+     background-color: rgba(60, 60, 60, 0.6);
+     padding: 30px;
+ }
+
+ #join_us_form>h2 {
+     color: beige;
+     margin-bottom: 20px;
+ }
+
+ .text-input {
+     background: transparent;
+     color: beige;
+     width: 100%;
+     height: 25px;
+     margin: 5px 0 20px 0;
+     border: 1px solid beige;
+     border-radius: 2px;
+     padding: 0 5px;
+ }
+
+ .radio-buttons {
+     width: 100%;
+     display: flex;
+     justify-content: space-between;
+ }
+
+ .join-button {
+     margin-top: 20px;
+     border-radius: 2px;
+     padding: 15px 32px;
+     font-size: 100%;
+     background-color: rgba(0, 0, 255, .5);;
+     color: #fafafa;
+ }
+
  /* Dealing with different Devices and Screen Sizes displaying - Media query: tablets and larger (768px and up) */
  @media screen and (min-width: 768px) {
 
@@ -382,9 +445,32 @@
 
 
      #fasting_world_gallery {
-        padding-top: 140px;
-    }
+         padding-top: 140px;
+     }
 
+     #join_us {
+
+         padding-top: 145px;
+     }
+
+     #join_us {
+         background-position: center;
+         position: relative;
+     }
+     #join_us_form {
+        max-width: 400px;
+        position: absolute;
+        left: 10%;
+        top: 150px;
+    }
+    .text-input:hover {
+        border-color: #f16c6b;
+    }
+    
+    .join-button:hover {
+        background-color: beige;
+        color: rgba(0, 0, 255, .5);;
+    }
  }
 
 
