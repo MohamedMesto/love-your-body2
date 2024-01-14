@@ -76,7 +76,7 @@ You can view the live site here - <a href="https://mohamedmesto.github.io/love-y
 - Share this amazing cure with the whole planet to make the people as much as possible happy, strong and healthy
 
 ## Design the Episode 
-Design the Episode ![Love your body- Therapeutic Fasting - Otto Buchinger](https://www.youtube.com/watch?v=b122ta41eqY&t=74s)  on the youtube chanel Tips From Europe
+Design the Episode Love your body- Therapeutic Fasting - Dr.Otto Buchinger (the link is shown below) on the youtube chanel Tips From Europe
 
 The design and structure for this website was created in Video Editor.  
 
@@ -84,7 +84,8 @@ The design and structure for this website was created in Video Editor.
 
 ## Site Structure
 
-Love Light Photography consists of 5 page website with 4 pages that the user can navigate between via the navigation bar.  The Home page is the default loading page. The Logo is centered and is also linked to the Home Page. On the left hand site of the logo are two navigation links of [Home](index.html) and [Packages](packages.html). And on the right side of the logo are another two navigation links of [Gallery](gallery.html) and [Contact](contact.html).
+Love Your Body (Fasting Treatment) consists of 6 page website with 5 pages that the user can navigate between via the navigation bar.  The Home page is the default loading page. The Logo is centered and is also linked to the Home Page. On the right hand site of the logo are five navigation links of [Home](index.html) , [Fasting Steps](fasting.html) ,[Fasting World](fasting_world.html) , [Join us](join_us.html).[Fasting books](books.html) 
+
 
 ## Design Choices
 
