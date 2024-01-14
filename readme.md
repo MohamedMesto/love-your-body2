@@ -361,7 +361,7 @@ In addition to the automated process above, manual testing was carried out on th
 
 The following error was presented once the website was placed through W3C HTML Validator.
 
-![HTML Validation Error 2](assets/images/readme_images/html-validator-error-2.png)
+ 
 
 It said that the img id could not be used for  each image on th e footer width and height attributes in the footer images produced " Expected a digit but saw p instead". Once I removed the img id from the attributes, it cleared that error up.
 
