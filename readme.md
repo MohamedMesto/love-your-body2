@@ -23,25 +23,23 @@ You can view the live site here - <a href="https://mohamedmesto.github.io/love-y
 - [Features](#features)
   - [Navigation](#navigation)
   - [Home Page](#home-page)
-  - [Fasting Steps Page](#fasting-page)
-  - [Fasting World Page](#fasting_world-page)
-  - [Join us Page](#join_us-page)
-  - [Fasting books](#books-page)
+  - [Fasting Steps page](#fasting-steps-page)
+  - [Fasting World Page](#fasting-world-page)
+  - [Join us Page](#join-us-page)
   - [Thank You Page](#thank-you-page)
+  - [Fasting books Page](#fasting-books-page)
   - [Footer](#footer)
 - [Future Features](#future-features)
 - [Technologies Used](#technologies-used)
 - [Testing](#testing)
   - [Code Validation](#code-validation)
-  - [Lighthouse Testing](#lighthouse-testing)
+  - [Love Your Body Testing](#love-your-body-testing)
   - [Accessibility Testing](#accessibility-testing)
   - [Responsive Testing](#responsive-testing)
   - [Manual Testing](#manual-testing)
   - [Bugs Fixed](#bugs-fixed)
     - [HTML Validation](#html-validation)
     - [CSS Validation](#css-validation)
-    - [Lighthouse Testing](#lighthouse-testing-1)
-    - [SVG Logo File](#svg-logo-file)
     - [Responsiveness](#responsiveness)
 - [Deployment](#deployment)
 - [Credits](#credits)
@@ -64,13 +62,13 @@ You can view the live site here - <a href="https://mohamedmesto.github.io/love-y
 - A user should be able to easily and intuitively navigate the site
 - A user should be able to identify the content of each page easily
 - A user should be able to easily learn more about fasting
-- A user should feel comfortable contacting the business for more information or to book an event or visit the clinic
+- A user should feel comfortable Join using the business for more information or to book an event or visit the clinic
 
 ## Site Aims
 - To increase the user's awareness of how to live a healthy life with a lifestyle that does not require money, but rather requires will
 - Explain and share and fasting rules and benefits
-- To provide the user with all the information needed to contact the clinic to book an medical consultation appointment
-- To offer a clear method to contact the fasting compunity
+- To provide the user with all the information needed to Join us the clinic to book an medical consultation appointment
+- To offer a clear method to Join us the fasting compunity
 - To improve the sociaty quality in a warm, friendly and inviting manner
 - To showcase a visual compilation of completed fasting projects
 - To deliver a starting guide to the cost of services
@@ -133,7 +131,7 @@ Upon entering each page, excluding the Home Page, visitors encounter a distinct 
 
 - Within the Learn of Discipline section on the home page, fasting emerges as a profound instructor. It imparts valuable lessons, fostering patience, nurturing tolerance for hunger, and fortifying one's willpower. Through disciplined self-control, fasting becomes a catalyst for personal growth.
 
-- Each section on the Home Page is meticulously crafted to evoke a sense of warmth and friendliness, intending to inspire users to delve into the website with the ultimate goal of navigating to the Contact Page.
+- Each section on the Home Page is meticulously crafted to evoke a sense of warmth and friendliness, intending to inspire users to delve into the website with the ultimate goal of navigating to the Join us Page.
 
  
 
@@ -147,67 +145,92 @@ Upon entering each page, excluding the Home Page, visitors encounter a distinct 
 ![Mobile Homepage](assets/images/readme_images/home-page-mobile4.png)
  </details>
 
-## Packages Page
+## Fasting Steps page
 
-- The packages page is as described in its navigation link. It lists the available services in a clear manner.
+- The Fasting Steps page adheres to its navigation link description, presenting a clear and organized list of available events.
 
-- There is a list of the available packages, using clear alternate colour design elements to distinguish the different packages, as well as headings, images and text.
+- Utilizing distinct alternate color designs, along with headings, images, and text, the page effectively distinguishes between different fasting steps.
 
-- It is fully responsive and each package section contents naturally fall into a single column, with the same clear colour design elements to distinguish each package.
+- It boasts full responsiveness, with each fasting steps section naturally aligning into a single column, maintaining a consistent and clear color design for easy differentiation.
 
-- This page is intended to impart the idea that this service is welcoming, friendly and the perfect fit for what the user is looking for but that the business can be approached for more information related to their particular event/occasion.
+- The page aims to convey a welcoming and friendly atmosphere, suggesting it as the perfect fit for users seeking specific events. Users are encouraged to approach the business for additional information tailored to their unique event needs.
 
-![Desktop Packages Page](assets/images/readme_images/packages-page.png)
+![Desktop fasting steps Page](assets/images/readme_images/fasting_steps-page.png)
 
-## Gallery Page
+[Back to top](<#contents>)
 
-- The Gallery page provides the user with some sample photography from the photographer. It gives a mix of different events and occasions in one large gallery.
 
-- The gallery is easy to use, with a hover function on the images drawing the users eye to the cursor.
 
-- The Gallery page is fully responsive and as the screen reduces in size the columns of images reduce until the images are full width in mobile devices.
 
-![Desktop Gallery Page](assets/images/readme_images/gallery-page.png)
+## Fasting World Page
 
-<details><summary>Mobile Gallery Page</summary>
+- The Fasting World Page provides the user with some sample photography from the Fasting World, the story, clinic ,fasting plan, Animals which fast. 
 
-![Mobile Gallery Page](assets/images/readme_images/gallery-page-mobile.png)
+- The Fasting World is easy to use, with a hover function on the images drawing the users eye to the cursor.
 
-</details>
+- The Fasting World Page is fully responsive and as the screen reduces in size the columns of images reduce until the images are full width in mobile devices.
 
-## Contact Page
+![Desktop Fasting World Page](assets/images/readme_images/fasting_world-page.png)
 
-- The Contact page is should be where the user ends up. As there is no booking system or online store to purchase a package the aim is for them to reach out to the business.
+ 
 
-- The contact form is modelled off the usual contact form layout, with four input fields; First Name, Last Name, Email Address and Your Message.
 
-- The contact form cannot be submitted unless the fields are filled correctly using the required attribute.
+
+[Back to top](<#contents>)
+
+
+
+
+## Join us Page
+
+- The Join us page is should be where the user ends up. As there is no booking system or online store to purchase a fasting steps the aim is for them to reach out to the health goal.
+
+- The Join us form is modelled off the usual Join us form layout, with four input fields; First Name, Last Name, Email Address and Your Message.
+
+- The Join us form cannot be submitted unless the fields are filled correctly using the required attribute.
 
 - The form also uses a GET function to link to a Thank You page to mimic the effect of actually submitting the form . There is no actual information submitted when the user completes the form and the thank you page is purely to show how the user will interact with the form.
 
-- Beside the contact form there are practical contact details such as a dummy phone number and email. The email has a mailto link which opens to the users default mail software on their device, againing using a dummy email for the purpose of user experience.
-
-- There is also a google map iframe beneath the Location section.
+- Beside the Join us form there are practical Join us details such as a dummy phone number and email. The email has a mailto link which opens to the users default mail software on their device, againing using a dummy email for the purpose of user experience.
 
 - The page is fully responsive with the sections stacking upon each other as the screen size is reduced, keeping the same design elements which distinguish between the different sections.
 
-![Desktop Contact Page](assets/images/readme_images/contact-page.png)
+![Desktop Join us Page](assets/images/readme_images/join_us-page.png)
+ 
 
-<details><summary>Mobile Contact Page</summary>
 
-![Mobile Contact Page](assets/images/readme_images/contact-page-mobile.png)
+[Back to top](<#contents>)
 
-</details>
+
+
+
 
 ## Thank You Page
 
-- The Thank You page cannot be accessed by the user from any links on the website. It can only be accessed by submitting the contact form on the Contact page which uses a GET function to retrieve the page to imitate the contact form submission.
+- The Thank You page cannot be accessed by the user from any links on the website. It can only be accessed by submitting the Join us form on the Join us page which uses a GET function to retrieve the page to imitate the Join us form submission.
 
 - The style and design of the website is consistent, with the navigation bar on top and footer on the bottom so as to allow the user to navigate back to the main website.
 
 ![Desktop Thank You Page](assets/images/readme_images/thank-you-page.png)
 
-![Mobile Thank You Page](assets/images/readme_images/thank-you-page-mobile.png)
+ 
+
+[Back to top](<#contents>)
+
+
+ ## Fasting books Page
+
+- The Fasting books Page provides the user with some books sample photography from the experters. It gives a mix of different ideas, food and methods in one large Fasting books.
+
+- The Fasting books is easy to use and to apply.
+
+- The Fasting books Page is fully responsive and as the screen reduces in size the columns of images reduce until the images are full width in mobile devices.
+
+![Fasting books Page](assets/images/readme_images/fasting_books-page.png)
+
+[Back to top](<#contents>)
+
+
 
 ## Footer
 
@@ -221,19 +244,19 @@ Upon entering each page, excluding the Home Page, visitors encounter a distinct 
 
 ![Desktop Footer](assets/images/readme_images/footer.png)
 
-![Mobile Footer](assets/images/readme_images/footer-mobile.png)
+ 
 
 [Back to top](<#contents>)
 
 # Future Features
 
-- The Stories section on the Home Page could be made a bit more interactive with more stories that could be rotated through with only 3 stories showing at a time on the homepage.
+- organizion Fast plan online.
 
-- The gallery can be expanded whereby a lightbox function can be implemented to achieve a greate user experience and interactivity with the images.
+- The fasting world can be expanded whereby a lightbox function can be implemented to achieve a greate user experience and interactivity with the images.
 
-- The gallery could also be categorised by event/occasion for better UX, to allow the user to navigate directly to photos of interest to them.
+- The fasting world could also be categorised by event for better UX, to allow the user to navigate directly to photos of interest to them.
 
-- A Log In could be added whereby clients would have access to the photos of their event in a private gallery, will will provide a swifter service for the business, cutting out another physical meeting with clients to choose their photos.
+- A Log In could be added whereby clients would have access to the photos of their event in a private fasting world, will will provide a swifter service for the business, cutting out another physical meeting with clients to choose their photos.
 
 - The mobile navigation menu could be changed into a burger menu.
 
@@ -248,7 +271,7 @@ Upon entering each page, excluding the Home Page, visitors encounter a distinct 
 - [Adobe Photoshop](https://www.adobe.com/ie/products/photoshop.html) - used to resize images and export them as progressive JPEG files.
 - [Adobe Color](https://color.adobe.com/create/color-contrast-analyzer) - Used to test the contrast and a blind safe colour check for the colour palette used.
 - [Adobe Lightroom](https://www.adobe.com/ie/products/photoshop-lightroom.html) - Used to optimise and resize images for screen.
-- [Tiny PNG](https://tinypng.com/) - Used to further compress optimised images.
+- [I love IMG](https://www.iloveimg.com/de) - Used to further compress optimised images.
 - Gitpod - Used to develop the website.
 - GitBash - Terminal used to push changes to the GitHub repository.
 - Github - Used to host and deploy the website.
@@ -259,17 +282,17 @@ Upon entering each page, excluding the Home Page, visitors encounter a distinct 
 
 ## Code Validation
 
-Love Light Photography has been validated via W3C HTML Validator and the W3C CSS Validator. There were 8 minor errors that came up for all of the pages. This was immediately corrected and documented down below in [Bugs Fixed](<#bugs-fixed>).
+Love Your Body has been validated via W3C HTML Validator and the W3C CSS Validator. There were 6 minor errors that came up for all of the pages. This was immediately corrected and documented down below in [Bugs Fixed](<#bugs-fixed>).
 
 ![W3C HTML Validator](assets/images/readme_images/html-validator.png)
 
 ![W3C CSS Validator](assets/images/readme_images/css-validator.jpg)
 
-## Lighthouse Testing
+## Love Your Body Testing
 
-The website was also put through Lighthouse testing via Chrome Devtools which tests a site under 4 different headings; Performance, Accessibility, Best Practices and SEO and it tests it under mobile and desktop criteria.
+The website was also put through Love Your Body testing via Chrome Devtools which tests a site under 4 different headings; Performance, Accessibility, Best Practices and it tests it under mobile and desktop criteria.
 
-![Lighthouse testing](assets/images/readme_images/lighthouse-results.png)
+ 
 
 ## Accessibility Testing
 
@@ -279,7 +302,7 @@ The website was also put through Lighthouse testing via Chrome Devtools which te
 
 [Adobe Color](https://color.adobe.com/create/color-accessibility) was also used to test that the colour scheme was accessible for those with different types of blindness which it also succeded in doing.
 
-![Adobe Color Blind Safe Checker](assets/images/readme_images/adobe-color-blind-safe.png)
+ 
 
 ## Responsive Testing
 
@@ -302,22 +325,22 @@ In addition to the automated process above, manual testing was carried out on th
   - Verified that all images on the home page are optimised and have alt functions.
   - Verified that all the elements are fully responsive
 
-- Packages Page
+- fasting steps Page
   - Verified that all the images are optimised and have alt texts.
   - Verified that all the elements are fully responsive.
 
-- Gallery Page
+- Fasting World Page
   - Verfied all the images are optimised and have alt texts.
   - Verified that all elements are fully responsive.
 
-- Contact Page
-  - Verified that contact form cannot be submitted without the required information (First Name, Last Name and Email Address)
-  - Verified that once the information is submitted via contact form, that the GET function works correctly and retrieves the thank you page.
+- Join us Page
+  - Verified that Join us form cannot be submitted without the required information (First Name, Last Name and Email Address)
+  - Verified that once the information is submitted via Join us form, that the GET function works correctly and retrieves the thank you page.
   - Verified that the mailto function works correctly on the email link.
   - Verified that the page is fully responsive.
 
 - Thank You Page
-  - Verified that the thank you page is linked correctly to the contact form.
+  - Verified that the thank you page is linked correctly to the Join us form.
   - Verified that the Thank You Page is fully responsive.
 
 - Footer
@@ -327,7 +350,7 @@ In addition to the automated process above, manual testing was carried out on th
 
 - Browser Testing
 
-  - Love Light Photography has been manually tested in Google Chrome, Microsoft Edge, Mozilla Firefox and Safari on both desktop and mobile.
+  - Love your body has been manually tested in Google Chrome, Microsoft Edge, Mozilla Firefox and Safari on both desktop and mobile.
   - Verified that all images worked correctly
   - Verified that design and structure was consistent across all browsers.
   - Verfied responsiveness across all browsers.
@@ -340,62 +363,18 @@ The following error was presented once the website was placed through W3C HTML V
 
 ![HTML Validation Error 2](assets/images/readme_images/html-validator-error-2.png)
 
-It said that the width and height attributes in the footer images produced " Expected a digit but saw p instead". Once I removed the px from the width and height attributes, it cleared that error up.
+It said that the img id could not be used for  each image on th e footer width and height attributes in the footer images produced " Expected a digit but saw p instead". Once I removed the img id from the attributes, it cleared that error up.
 
 ### CSS Validation
 
-The following error cropped up when the site was initially put through CSS validation.
+The  error cropped up when the site was initially put through CSS validation.
 
-![CSS Validation error](assets/images/readme_images/css-validator-issue.png)
 
-While no problems were indicated in the CSS file in GitPod, it did show up in validation. To fix this error, in the font-family declaration, I changed all the double quote around the font family to single quotes and the error cleared.
+While no problems were indicated in the CSS file in using false css attribute represnted in hr - size, I correct it to height and the error cleared.
 
-### Lighthouse Testing
+ 
 
-The first error that cropped up with lighthouse testing with regards Best Practices and thus affecting also the Performance section. This error was across all pages and had to do with external links and security.
-
-![Lighthouse initial testing](assets/images/readme_images/rel-noopener-fix.png)
-
-It was recommended to add the rel=noopener to any external links, which cleared the error.
-
-As well as this, the initial scores were fluctuating between the low greens to the orange on a few of the pages. Upon further inspection, these were on the pages which held a large quantity of images, mainly the Gallery Page and Packages Page. Both these results were in the mobile and desktop testing.
-
-![Lighthouse Testing Image 1](assets/images/readme_images/desktop-lighthouse-test-gallery-2.png)
-
-![Lighthouse Testing Image 2](assets/images/readme_images/desktop-lighthouse-test-gallery-3.png)
-
-The errors shown were:
-
-1. Serve images in next-gen formats
-2. Properly sized images
-3. Serve static assets with an efficient cache policy
-4. Image elements do not have specific width and height
-
-- Problem 1 -Serve images in next-gen formats
-  - Serving images in next-gen file formats like webp would improve the score however upon research, it was best to leave my images as JPEG files, as this is the best file format for colour, depth and clarity of photos which is extremely important for a photography business website. The images however were exported as progressive JPEG files to allow the browser to load a simple version of the image before loading the full resolution photo. A lot of next-gen file formats are also currently not supported by a lot of browsers.
-
-- Problem 2 - Properly sized images
-  - This problem was initially addressed by running the photos through lightroom and exporting them for screen and compressing them using [Tiny.png](https://tinypng.com/). This was still not enough, however so they were brought into photoshop and were cropped to exact sizes, exported as progressive JPEG files and compressed again via tiny.png. This cleared the warning.
-
-- Problem 3 - Serve static assets with an efficient cache policy
-  - Caching is a problem that could not be solved as it's the host's issue, in this case Github pages controls the problem.
-
-- Problem 4 - Image elements do not have specific width and height
-  - This was fixed by adding width and height attributes to image tags and thus the warning was cleared.
-
-### SVG Logo File
-
- A logo for the site was created using Adobe Illustrator and it was exported as a SVG file, done so for the repsonsive ability of the svg file and the sharpness and quality of the image itself.
-
- However there were issues with it showing up with a size of 0px in browsers.
-
- The fix was found here : (<https://github.com/lokesh/lightbox2/issues/552>) and it corrected when an actual height and width was set to the img tag.
-
- While this fixed the issue in Chrome and Mircrosoft Edge, it did not in Firefox.
-
- ![Firefox SVG logo issue](assets/images/readme_images/firefox-issue-2.png)
-
- Upon further study the width and height that was set to 100% had no point of reference and thus setting the height and width attribute in the html fixed the problem in firefox as the percentage widths in the CSS then had a point of reference.
+ 
 
 ### Responsiveness
 
@@ -403,17 +382,6 @@ Chrome Devtools was initially used to test the responsiveness of the website. Ho
 
 ![Chrome Devtools responsive viewer](assets/images/readme_images/responsive-issue-2.png)
 
-![Viewport Resizer Chrome Extension](assets/images/readme_images/responsiveness-issue.png)
-
-![Responsive Design Checker](assets/images/readme_images/responsive-issue-3.png)
-
-There were overflow issues that couldnt be determined easily once certain screen sizes were reached, particularly the mobile screen size. To help identify the overflow issues, the problem was googled and answer found in [Stack Overflow](https://stackoverflow.com/questions/31458477/find-element-that-is-causing-the-showing-of-horizontal-scrollbar-in-google-chrom) and a piece of code was used to outline all the elements on a page, allowing the elements that didnt line up to be identified.
-
-![Outline Code Example](assets/images/readme_images/outline-code.png)
-
-![Outline Code Desktop Design](assets/images/readme_images/overflow-outline-2.png)
-
-![Outline Code Mobile Design](assets/images/readme_images/overflow-outline.png)
 
 [Back to top](<#contents>)
 
