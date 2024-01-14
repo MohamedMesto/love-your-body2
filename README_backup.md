@@ -2,9 +2,9 @@
 
 "Love Your Body (Fasting Treatment)" a digital haven dedicated to the transformative power of fasting for holistic well-being. Our platform is a nurturing guide, offering insights into the profound connection between self-love and the art of intentional fasting. Explore evidence-backed fasting treatments, tailor-made to rejuvenate your body, mind, and spirit. Immerse yourself in a wealth of resources, from expert advice on fasting protocols to delicious and nutritious recipes that support your wellness journey. Join our community of mindful individuals committed to embracing the healing potential of fasting, and embark on a transformative path toward a healthier, more balanced life.
 
-You can view the live site here - <a href="https://mohamedmesto.github.io/love-your-baody" target="_blank"> Love Light Photography </a>
+You can view the live site here - <a href="https://mohamedmesto.github.io/love-your-body2/" target="_blank"> LOVE YOUR BODY </a>
 
-![Love Light Photography responsive design](assets/images/devices.png)
+![Love your body responsive design](assets/images/devices.png)
 
 # Contents
 
