@@ -4,7 +4,7 @@
 
 You can view the live site here - <a href="https://mohamedmesto.github.io/love-your-body2/" target="_blank"> LOVE YOUR BODY </a>
 
-![Love your body responsive design](assets/images/devices.png)
+![Love your body responsive design](assets/images/readme_images/devices.png)
 
 # Contents
 
@@ -23,9 +23,10 @@ You can view the live site here - <a href="https://mohamedmesto.github.io/love-y
 - [Features](#features)
   - [Navigation](#navigation)
   - [Home Page](#home-page)
-  - [Packages Page](#packages-page)
-  - [Gallery Page](#gallery-page)
-  - [Contact Page](#contact-page)
+  - [Fasting Steps Page](#fasting-page)
+  - [Fasting World Page](#fasting_world-page)
+  - [Join us Page](#join_us-page)
+  - [Fasting books](#books-page)
   - [Thank You Page](#thank-you-page)
   - [Footer](#footer)
 - [Future Features](#future-features)
@@ -84,28 +85,29 @@ The design and structure for this website was created in Video Editor.
 
 ## Site Structure
 
-Love Your Body (Fasting Treatment) consists of 6 page website with 5 pages that the user can navigate between via the navigation bar.  The Home page is the default loading page. The Logo is centered and is also linked to the Home Page. On the right hand site of the logo are five navigation links of [Home](index.html) , [Fasting Steps](fasting.html) ,[Fasting World](fasting_world.html) , [Join us](join_us.html).[Fasting books](books.html) 
+Love Your Body (Fasting Treatment) consists of 6 page website with 5 pages that the user can navigate between via the navigation bar.  The Home page is the default loading page. The Logo is centered and is also linked to the Home Page. On the right hand site of the logo are five navigation links of [Home](index.html) , [Fasting Steps](fasting.html) ,[Fasting World](fasting_world.html) , [Join us](join_us.html) and [Fasting books](books.html).
 
 
 ## Design Choices
 
 ### Colour Scheme
 
-The final colour scheme chosen was a dark teal with an off white text, as well as an off white and light grey to segment pages. Two lighter teal colours were used on the navigation bar to highlight the active page and for the hover effect. This colour scheme is very on trend with the clean and modern look but still has that hint of warmth by sticking to the warmer tones of teal, greys and whites.
+The final color scheme chosen was shades of blue with white accents, as well as light purple and white to divide the pages. In other words, two light blue colors were used on the navigation bar, a yellow effect to highlight the active page and for a scrolling effect, and a beige color for the writing. This color scheme is in keeping with a clean, modern look but still has a touch of warmth by sticking to warmer colors like navy blue, gray, and white.
 
-![Colour palette image of 5 colours](assets/images/colour_palette_lyb.png)
+![Colour palette image of 5 colours](assets/images/readme_images/colour_palette_lyb.png)
 
 ### Typography
 
-There were two types of fonts chosen for this website. 'EB Garamond' was used for the body of the text and 'Cormorant Garamond' for the headings, which is a slightly different version Garamond than the body text to provide emphasis. Both fonts fall back to 'sans-serif'. The Garamond fonts have a slightly luxurious feel to them and the serif detail, provides a small bit of complexity to the design but with making use of letter spacing and line heights to still keep it in line with the clean look.
+There were two types of fonts chosen for this website. 'Lemon' was used for the body of the text and 'Lato' for the headings, which is a slightly different version Lemon than the body text to provide emphasis. Besides, sub texts used fonts fall back to 'sans-serif'.  The Lemon fonts exude a subtle sense of luxury, enhanced by their sophisticated serifs that introduce a touch of complexity to the design. Through meticulous adjustments in letter spacing and line heights, we maintain a clean aesthetic while infusing a hint of refinement.
 
 [Back to top](<#contents>)
 
 # Features
 
-Love Light Phtography is designed and structured like a typical website, making it very natural and intuitive to use to entice the user to explore further.
 
-Each page, except the Home Page, has a clear heading when landing on the page and short paragraph introducing the content. The language, colour and design used is intended to be friendly and easy to understand.
+Love Your Body boasts a user-friendly and intuitive design, resembling a conventional website layout, thereby inviting users to seamlessly delve deeper into its offerings.
+
+Upon entering each page, excluding the Home Page, visitors encounter a distinct heading accompanied by a concise paragraph introducing the content. The use of friendly language, vibrant colors, and thoughtful design aims to create an easily understandable and approachable environment. Additionally, the website offers unique and valuable insights, providing readers with extraordinary information not commonly found elsewhere.
 
 ## Navigation
 
@@ -115,34 +117,34 @@ Each page, except the Home Page, has a clear heading when landing on the page an
 
 - There are three variations of the navigation bar for different screen sizes, and each keep the same colour and design styles with only the structure changing to keep the user experience as smooth as possible.
 
-![Desktop Navbar](assets/images/readme-images/navbar-desktop.png)
+![Desktop Navbar](assets/images/readme_images/navbar-desktop.png)
 
-![Medium Screen Navbar](assets/images/readme-images/navbar-medium-screen.png)
+![Medium Screen Navbar](assets/images/readme_images/navbar-medium-screen.png)
 
-![Mobile Navbar](assets/images/readme-images/navbar-mobile.png)
+![Mobile Navbar](assets/images/readme_images/navbar-mobile.png)
 
 ## Home Page
 
-- The Home Page is the landing page of the website and the first part that the user will see. It is designed to be welcoming and the purpose of the website easily determined.
+- The Home Page serves as the initial landing point for users, offering a warm and inviting design. Its primary objective is to provide a welcoming introduction, ensuring that the purpose of the website is easily discernible to visitors.
 
-- There is a large hero image chosen for its' style, colour scheme and tone to match the website itself and it's immediately visible. Overlayed on the hero image is site name and a catchy slogan.
+- A prominently featured core image, carefully selected for its style, color scheme, and tone, seamlessly aligns with the overall aesthetics of the website. Overlaid on this captivating image are the site name and a succinct slogan highlighting the fasting treatment, ensuring immediate visibility and impact.
 
-- There is a bit of content peeking just above the fold to show users that there is more information on the page. This is a quote and it's designed to give off a particular feel of the website to the user; essentially the ethos of by which the business stands by.
+- A carefully curated quote strategically peeks just above the fold, offering users a glimpse of the depth of information awaiting them on the page. Crafted to convey the essence of the website – centered around the benefits the concept of God's grace and mercy which is the idea of fasting – the quote aims to resonate with users and set the tone for their exploration..
 
-- There is a section "Meet the Photographer" which is a succint About Me section intended to put the user at ease, keep the welcoming vibe whilst still imparting useful information and engaging with the user.
+- Within the Learn of Discipline section on the home page, fasting emerges as a profound instructor. It imparts valuable lessons, fostering patience, nurturing tolerance for hunger, and fortifying one's willpower. Through disciplined self-control, fasting becomes a catalyst for personal growth.
 
-- The last seection on the Home Page is a Stories section, which provides three different testimonials.
+- Each section on the Home Page is meticulously crafted to evoke a sense of warmth and friendliness, intending to inspire users to delve into the website with the ultimate goal of navigating to the Contact Page.
 
-- The aim of each of these sections of the Home Page is to create a feeling of welcoming and friendliness and to encourage the user to explore the website in the hopes of hitting that Contact Page.
+ 
 
-- Each section is fully responsive, with the multiple column content naturally falling into single column content.
-
- ![Desktop Homepage](assets/images/readme-images/home-page.png)
-
+ ![Desktop Homepage](assets/images/readme_images/home-page1.png)
+ ![Desktop Homepage](assets/images/readme_images/home-page2.png)
  <details><summary>Mobile Home Page</summary>
 
- ![Mobile Homepage](assets/images/readme-images/home-page-mobile.png)
-
+ ![Mobile Homepage](assets/images/readme_images/home-page-mobile1.png)
+![Mobile Homepage](assets/images/readme_images/home-page-mobile2.png)
+![Mobile Homepage](assets/images/readme_images/home-page-mobile3.png)
+![Mobile Homepage](assets/images/readme_images/home-page-mobile4.png)
  </details>
 
 ## Packages Page
@@ -155,7 +157,7 @@ Each page, except the Home Page, has a clear heading when landing on the page an
 
 - This page is intended to impart the idea that this service is welcoming, friendly and the perfect fit for what the user is looking for but that the business can be approached for more information related to their particular event/occasion.
 
-![Desktop Packages Page](assets/images/readme-images/packages-page.png)
+![Desktop Packages Page](assets/images/readme_images/packages-page.png)
 
 ## Gallery Page
 
@@ -165,11 +167,11 @@ Each page, except the Home Page, has a clear heading when landing on the page an
 
 - The Gallery page is fully responsive and as the screen reduces in size the columns of images reduce until the images are full width in mobile devices.
 
-![Desktop Gallery Page](assets/images/readme-images/gallery-page.png)
+![Desktop Gallery Page](assets/images/readme_images/gallery-page.png)
 
 <details><summary>Mobile Gallery Page</summary>
 
-![Mobile Gallery Page](assets/images/readme-images/gallery-page-mobile.png)
+![Mobile Gallery Page](assets/images/readme_images/gallery-page-mobile.png)
 
 </details>
 
@@ -189,11 +191,11 @@ Each page, except the Home Page, has a clear heading when landing on the page an
 
 - The page is fully responsive with the sections stacking upon each other as the screen size is reduced, keeping the same design elements which distinguish between the different sections.
 
-![Desktop Contact Page](assets/images/readme-images/contact-page.png)
+![Desktop Contact Page](assets/images/readme_images/contact-page.png)
 
 <details><summary>Mobile Contact Page</summary>
 
-![Mobile Contact Page](assets/images/readme-images/contact-page-mobile.png)
+![Mobile Contact Page](assets/images/readme_images/contact-page-mobile.png)
 
 </details>
 
@@ -203,9 +205,9 @@ Each page, except the Home Page, has a clear heading when landing on the page an
 
 - The style and design of the website is consistent, with the navigation bar on top and footer on the bottom so as to allow the user to navigate back to the main website.
 
-![Desktop Thank You Page](assets/images/readme-images/thank-you-page.png)
+![Desktop Thank You Page](assets/images/readme_images/thank-you-page.png)
 
-![Mobile Thank You Page](assets/images/readme-images/thank-you-page-mobile.png)
+![Mobile Thank You Page](assets/images/readme_images/thank-you-page-mobile.png)
 
 ## Footer
 
@@ -217,9 +219,9 @@ Each page, except the Home Page, has a clear heading when landing on the page an
 
 - It also contains an email link which uses a mailto function to open the devices preferred email software. The email used is just a dummy email to show how the user interacts with the link.
 
-![Desktop Footer](assets/images/readme-images/footer.png)
+![Desktop Footer](assets/images/readme_images/footer.png)
 
-![Mobile Footer](assets/images/readme-images/footer-mobile.png)
+![Mobile Footer](assets/images/readme_images/footer-mobile.png)
 
 [Back to top](<#contents>)
 
@@ -259,25 +261,25 @@ Each page, except the Home Page, has a clear heading when landing on the page an
 
 Love Light Photography has been validated via W3C HTML Validator and the W3C CSS Validator. There were 8 minor errors that came up for all of the pages. This was immediately corrected and documented down below in [Bugs Fixed](<#bugs-fixed>).
 
-![W3C HTML Validator](assets/images/readme-images/html-validator.png)
+![W3C HTML Validator](assets/images/readme_images/html-validator.png)
 
-![W3C CSS Validator](assets/images/readme-images/css-validator.jpg)
+![W3C CSS Validator](assets/images/readme_images/css-validator.jpg)
 
 ## Lighthouse Testing
 
 The website was also put through Lighthouse testing via Chrome Devtools which tests a site under 4 different headings; Performance, Accessibility, Best Practices and SEO and it tests it under mobile and desktop criteria.
 
-![Lighthouse testing](assets/images/readme-images/lighthouse-results.png)
+![Lighthouse testing](assets/images/readme_images/lighthouse-results.png)
 
 ## Accessibility Testing
 
 [A11y](https://color.a11y.com/) was used to check the colour contrast on the website for accessibility purposes which it passed.
 
-![A11y Contrast validator](assets/images/readme-images/color-contrast-validator.png)
+![A11y Contrast validator](assets/images/readme_images/color-contrast-validator.png)
 
 [Adobe Color](https://color.adobe.com/create/color-accessibility) was also used to test that the colour scheme was accessible for those with different types of blindness which it also succeded in doing.
 
-![Adobe Color Blind Safe Checker](assets/images/readme-images/adobe-color-blind-safe.png)
+![Adobe Color Blind Safe Checker](assets/images/readme_images/adobe-color-blind-safe.png)
 
 ## Responsive Testing
 
@@ -336,7 +338,7 @@ In addition to the automated process above, manual testing was carried out on th
 
 The following error was presented once the website was placed through W3C HTML Validator.
 
-![HTML Validation Error 2](assets/images/readme-images/html-validator-error-2.png)
+![HTML Validation Error 2](assets/images/readme_images/html-validator-error-2.png)
 
 It said that the width and height attributes in the footer images produced " Expected a digit but saw p instead". Once I removed the px from the width and height attributes, it cleared that error up.
 
@@ -344,7 +346,7 @@ It said that the width and height attributes in the footer images produced " Exp
 
 The following error cropped up when the site was initially put through CSS validation.
 
-![CSS Validation error](assets/images/readme-images/css-validator-issue.png)
+![CSS Validation error](assets/images/readme_images/css-validator-issue.png)
 
 While no problems were indicated in the CSS file in GitPod, it did show up in validation. To fix this error, in the font-family declaration, I changed all the double quote around the font family to single quotes and the error cleared.
 
@@ -352,15 +354,15 @@ While no problems were indicated in the CSS file in GitPod, it did show up in va
 
 The first error that cropped up with lighthouse testing with regards Best Practices and thus affecting also the Performance section. This error was across all pages and had to do with external links and security.
 
-![Lighthouse initial testing](assets/images/readme-images/rel-noopener-fix.png)
+![Lighthouse initial testing](assets/images/readme_images/rel-noopener-fix.png)
 
 It was recommended to add the rel=noopener to any external links, which cleared the error.
 
 As well as this, the initial scores were fluctuating between the low greens to the orange on a few of the pages. Upon further inspection, these were on the pages which held a large quantity of images, mainly the Gallery Page and Packages Page. Both these results were in the mobile and desktop testing.
 
-![Lighthouse Testing Image 1](assets/images/readme-images/desktop-lighthouse-test-gallery-2.png)
+![Lighthouse Testing Image 1](assets/images/readme_images/desktop-lighthouse-test-gallery-2.png)
 
-![Lighthouse Testing Image 2](assets/images/readme-images/desktop-lighthouse-test-gallery-3.png)
+![Lighthouse Testing Image 2](assets/images/readme_images/desktop-lighthouse-test-gallery-3.png)
 
 The errors shown were:
 
@@ -391,7 +393,7 @@ The errors shown were:
 
  While this fixed the issue in Chrome and Mircrosoft Edge, it did not in Firefox.
 
- ![Firefox SVG logo issue](assets/images/readme-images/firefox-issue-2.png)
+ ![Firefox SVG logo issue](assets/images/readme_images/firefox-issue-2.png)
 
  Upon further study the width and height that was set to 100% had no point of reference and thus setting the height and width attribute in the html fixed the problem in firefox as the percentage widths in the CSS then had a point of reference.
 
@@ -399,19 +401,19 @@ The errors shown were:
 
 Chrome Devtools was initially used to test the responsiveness of the website. However it proved to be somewhat inconsistent with results despite no code being changed. Therefore another Chrome extension was used, [Viewport Resizer](https://chrome.google.com/webstore/detail/viewport-resizer-%E2%80%93-respon/kapnjjcfcncngkadhpmijlkblpibdcgm?hl=en) and a website, [Responsive Design Checker](https://responsivedesignchecker.com/) was used in conjunction with Chrome Devtools to make sure the website was fully responsive.
 
-![Chrome Devtools responsive viewer](assets/images/readme-images/responsive-issue-2.png)
+![Chrome Devtools responsive viewer](assets/images/readme_images/responsive-issue-2.png)
 
-![Viewport Resizer Chrome Extension](assets/images/readme-images/responsiveness-issue.png)
+![Viewport Resizer Chrome Extension](assets/images/readme_images/responsiveness-issue.png)
 
-![Responsive Design Checker](assets/images/readme-images/responsive-issue-3.png)
+![Responsive Design Checker](assets/images/readme_images/responsive-issue-3.png)
 
 There were overflow issues that couldnt be determined easily once certain screen sizes were reached, particularly the mobile screen size. To help identify the overflow issues, the problem was googled and answer found in [Stack Overflow](https://stackoverflow.com/questions/31458477/find-element-that-is-causing-the-showing-of-horizontal-scrollbar-in-google-chrom) and a piece of code was used to outline all the elements on a page, allowing the elements that didnt line up to be identified.
 
-![Outline Code Example](assets/images/readme-images/outline-code.png)
+![Outline Code Example](assets/images/readme_images/outline-code.png)
 
-![Outline Code Desktop Design](assets/images/readme-images/overflow-outline-2.png)
+![Outline Code Desktop Design](assets/images/readme_images/overflow-outline-2.png)
 
-![Outline Code Mobile Design](assets/images/readme-images/overflow-outline.png)
+![Outline Code Mobile Design](assets/images/readme_images/overflow-outline.png)
 
 [Back to top](<#contents>)
 
