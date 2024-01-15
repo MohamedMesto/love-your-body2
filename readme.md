@@ -425,4 +425,4 @@ The website was deployed to GitHub pages via the following methods:
 - [Educatefitness](https://educatefitness.co.uk/the-structure-and-function-of-the-heart-simplified/)
 - [Scmp](https://www.scmp.com/lifestyle/health-wellness/article/3092629/brain-how-it-works-and-best-ways-keep-it-healthy-you-get
 )
-- Readme Template is sourced from  Fonts were sourced from [love-running-2.0](https://code-institute-org.github.io//index.html) 
+- Readme Template is sourced from [love-running-2.0](https://code-institute-org.github.io//index.html) 
