@@ -412,12 +412,12 @@ The website was deployed to GitHub pages via the following methods:
 - Link to the quote by [Destin Sparks](https://twitter.com/DestinSparks/status/757136759406727168?cxt=HHwWgMCg7eD38YEVAAAA)
 - Image optimisation was learned from [Layout, Flywheel](https://getflywheel.com/layout/optimize-images-for-web/#file-type)
 - Some materials are reserved to the German Navy ,Therapeutic Fasting Prof.Dr. Otto Buchinger, Miracle successful, How to live a happy healthy life.
-- Some of the commands, statement are from the our course from Code Institute.
+- Some of the commands, statement are sourced from the our course from Code Institute.
 - The story of fasting is taken from the heavenly ,Holy books (the Torah, the Bible, and the Quran) 
 - The story topic, Materials of therapeutic fasting is taken from the website:  
 - [Dr. Otto buchinger](https://www.buchinger-wilhelmi.com/en/geschichte-des-heilfastens/) 
 - [Dr. Otto buchinger Clinic](https://www.buchinger.de/en/)
-- The images are taken from the Internet Medical ,Healthy websites:
+- The images are sourced from the Internet Medical ,Healthy websites:
 - [Praxisvita](https://www.praxisvita.de/lunge-das-wichtige-organ-16228.html) 
 - [Rehafit rain](https://rehafit-rain.de/kurse/rehasport-lunge) 
 - [Snexplores](https://www.snexplores.org/article/explainer-what-is-a-neuron)
@@ -425,4 +425,4 @@ The website was deployed to GitHub pages via the following methods:
 - [Educatefitness](https://educatefitness.co.uk/the-structure-and-function-of-the-heart-simplified/)
 - [Scmp](https://www.scmp.com/lifestyle/health-wellness/article/3092629/brain-how-it-works-and-best-ways-keep-it-healthy-you-get
 )
- git commit -m "add the mising creadit wbsites"
+- Readme Template is sourced from  Fonts were sourced from [love-running-2.0](https://code-institute-org.github.io//index.html) 
