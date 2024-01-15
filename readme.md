@@ -401,7 +401,7 @@ The website was deployed to GitHub pages via the following methods:
 # Credits
 
 - Fonts were sourced from [Google Fonts](https://fonts.google.com/)
-- All images from the website were sourced from [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/)
+- Some images from the website were sourced from [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/)
 - Images were compressed by [Tiny Png](https://tinypng.com/)
 - Colour palette was created by [coolors.co](https://coolors.co/)
 - Flexbox system was learned via youtube video from [LearnWebCode](https://www.youtube.com/watch?v=k32voqQhODc&ab_channel=LearnWebCode)
@@ -411,6 +411,18 @@ The website was deployed to GitHub pages via the following methods:
 - Code for drawing a border inside a shape/image was from [CodeLab](https://www.tutorialrepublic.com/codelab.php?topic=faq&file=draw-border-inside-div-element-with-css)
 - Link to the quote by [Destin Sparks](https://twitter.com/DestinSparks/status/757136759406727168?cxt=HHwWgMCg7eD38YEVAAAA)
 - Image optimisation was learned from [Layout, Flywheel](https://getflywheel.com/layout/optimize-images-for-web/#file-type)
-
-- Some materials are reserved to the German Navy ,Therapeutic Fasting Prof.Dr. Otto Buchinger, Miracle successful, How to live a happy healthy life
+- Some materials are reserved to the German Navy ,Therapeutic Fasting Prof.Dr. Otto Buchinger, Miracle successful, How to live a happy healthy life.
 - Some of the commands, statement are from the our course from Code Institute.
+- The story of fasting is taken from the heavenly ,Holy books (the Torah, the Bible, and the Quran) 
+- The story topic, Materials of therapeutic fasting is taken from the website:  
+- [Dr. Otto buchinger](https://www.buchinger-wilhelmi.com/en/geschichte-des-heilfastens/) 
+- [Dr. Otto buchinger Clinic](https://www.buchinger.de/en/)
+- The images are taken from the Internet Medical ,Healthy websites:
+- [Praxisvita](https://www.praxisvita.de/lunge-das-wichtige-organ-16228.html) 
+- [Rehafit rain](https://rehafit-rain.de/kurse/rehasport-lunge) 
+- [Snexplores](https://www.snexplores.org/article/explainer-what-is-a-neuron)
+- [Longevity technology](https://longevity.technology/lifestyle/key-functions-of-nerve-cells-you-need-to-know/)
+- [Educatefitness](https://educatefitness.co.uk/the-structure-and-function-of-the-heart-simplified/)
+- [Scmp](https://www.scmp.com/lifestyle/health-wellness/article/3092629/brain-how-it-works-and-best-ways-keep-it-healthy-you-get
+)
+ git commit -m "add the mising creadit wbsites"
