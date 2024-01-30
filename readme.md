@@ -33,7 +33,7 @@ You can view the live site here - <a href="https://mohamedmesto.github.io/love-y
 - [Technologies Used](#technologies-used)
 - [Testing](#testing)
   - [Code Validation](#code-validation)
-  - [Love Your Body Testing](#love-your-body-testing)
+  - [Lighthouse Testing](#lighthouse-testing)
   - [Accessibility Testing](#accessibility-testing)
   - [Responsive Testing](#responsive-testing)
   - [Manual Testing](#manual-testing)
@@ -157,6 +157,8 @@ Upon entering each page, excluding the Home Page, visitors encounter a distinct 
 
 ![Desktop fasting steps Page](assets/images/readme_images/fasting_steps-page.png)
 
+![Mobile fasting steps Page](assets/images/readme_images/mobile_fasting_steps-page.png)
+
 [Back to top](<#contents>)
 
 
@@ -172,8 +174,11 @@ Upon entering each page, excluding the Home Page, visitors encounter a distinct 
 
 ![Desktop Fasting World Page](assets/images/readme_images/fasting_world-page.png)
 
- 
+![Mobile Fasting World Page](assets/images/readme_images/mobile_fasting_world-page1.png)
 
+![Mobile Fasting World Page](assets/images/readme_images/mobile_fasting_world-page2.png)
+
+![Mobile Fasting World Page](assets/images/readme_images/mobile_fasting_world-page3.png)
 
 
 [Back to top](<#contents>)
@@ -197,7 +202,7 @@ Upon entering each page, excluding the Home Page, visitors encounter a distinct 
 
 ![Desktop Join us Page](assets/images/readme_images/join_us-page.png)
  
-
+![Mobile Join us Page](assets/images/readme_images/mobile_join_us-page.png)
 
 [Back to top](<#contents>)
 
@@ -213,7 +218,7 @@ Upon entering each page, excluding the Home Page, visitors encounter a distinct 
 
 ![Desktop Thank You Page](assets/images/readme_images/thank-you-page.png)
 
- 
+![Mobile Thank You Page](assets/images/readme_images/mobile_thank-you-page.png)
 
 [Back to top](<#contents>)
 
@@ -226,7 +231,10 @@ Upon entering each page, excluding the Home Page, visitors encounter a distinct 
 
 - The Fasting books Page is fully responsive and as the screen reduces in size the columns of images reduce until the images are full width in mobile devices.
 
-![Fasting books Page](assets/images/readme_images/fasting_books-page.png)
+![Desktop Fasting books Page](assets/images/readme_images/fasting_books-page.png)
+
+![Mobile Fasting books Page](assets/images/readme_images/mobile_fasting_books-page.png)
+
 
 [Back to top](<#contents>)
 
@@ -244,7 +252,7 @@ Upon entering each page, excluding the Home Page, visitors encounter a distinct 
 
 ![Desktop Footer](assets/images/readme_images/footer.png)
 
- 
+![Mobile Footer](assets/images/readme_images/mobile_footer.png)
 
 [Back to top](<#contents>)
 
@@ -288,11 +296,11 @@ Love Your Body has been validated via W3C HTML Validator and the W3C CSS Validat
 
 ![W3C CSS Validator](assets/images/readme_images/css-validator.jpg)
 
-## Love Your Body Testing
+## Lighthouse Testing
 
-The website was also put through Love Your Body testing via Chrome Devtools which tests a site under 4 different headings; Performance, Accessibility, Best Practices and it tests it under mobile and desktop criteria.
+The website was also put through Lighthouse testing via Chrome Devtools which tests a site under 4 different headings; Performance, Accessibility, Best Practices and it tests it under mobile and desktop criteria.
 
- 
+![Lighthouse testing](assets/images/readme_images/lighthouse-results.png)
 
 ## Accessibility Testing
 
@@ -301,6 +309,8 @@ The website was also put through Love Your Body testing via Chrome Devtools whic
 ![A11y Contrast validator](assets/images/readme_images/color-contrast-validator.png)
 
 [Adobe Color](https://color.adobe.com/create/color-accessibility) was also used to test that the colour scheme was accessible for those with different types of blindness which it also succeded in doing.
+
+![Adobe Color Blind Safe Checker](assets/images/readme_images/adobe-color-blind-safe.png)
 
  
 
@@ -380,7 +390,15 @@ While no problems were indicated in the CSS file in using false css attribute re
 
 Chrome Devtools was initially used to test the responsiveness of the website. However it proved to be somewhat inconsistent with results despite no code being changed. Therefore another Chrome extension was used, [Viewport Resizer](https://chrome.google.com/webstore/detail/viewport-resizer-%E2%80%93-respon/kapnjjcfcncngkadhpmijlkblpibdcgm?hl=en) and a website, [Responsive Design Checker](https://responsivedesignchecker.com/) was used in conjunction with Chrome Devtools to make sure the website was fully responsive.
 
-![Chrome Devtools responsive viewer](assets/images/readme_images/responsive-issue-2.png)
+
+![Chrome Devtools responsive viewer](assets/images/readme_images/chrome_devtools_responsive_viewer.png)
+
+![Viewport Resizer Chrome Extension](assets/images/readme_images/chrome_extension_viewport_resizer.png)
+
+![Responsive Design Checker](assets/images/readme_images/responsive_design_checker.png)
+
+
+
 
 
 [Back to top](<#contents>)
