@@ -1,7 +1,7 @@
 ---
 name: User Story2
 about: Describe this issue template's purpose here.
-title: USER STORY2 <TITLE>
+title: USER STORY: <TITLE>
 labels: ''
 assignees: ''
 
